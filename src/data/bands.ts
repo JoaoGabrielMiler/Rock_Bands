@@ -12,6 +12,16 @@ export type Band = {
 
 export const BANDS: Band[] = [
   {
+  id: 'black-sabbath',
+  name: 'Black Sabbath',
+  genre: 'Heavy Metal',
+  origin: 'Birmingham, Reino Unido',
+  formedIn: 1968,
+  image: 'https://i.pinimg.com/736x/8b/9c/c6/8b9cc6616c535ff3fec1028d72829e97.jpg',
+  topSongs: ['Paranoid', 'Iron Man', 'War Pigs'],
+  description: 'Pioneiros do heavy metal; som sombrio, riffs pesados e enorme influência no gênero.' 
+  },
+  {
     id: 'acdc',
     name: 'AC/DC',
     genre: 'Hard Rock',
