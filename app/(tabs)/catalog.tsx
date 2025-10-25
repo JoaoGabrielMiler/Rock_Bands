@@ -5,6 +5,8 @@ import { Ionicons } from '@expo/vector-icons';
 import { BANDS } from '../../src/data/bands';
 import BandCard from '../../src/components/BandCard';
 import { COLORS, RADIUS, SPACING } from '../../src/theme/theme';
+import { catalogStyles as styles } from '../../src/styles/catalog.styles';
+
 
 export default function CatalogScreen() {
   const [q, setQ] = useState('');
@@ -64,46 +66,3 @@ export default function CatalogScreen() {
     </View>
   );
 }
-
-const styles = StyleSheet.create({
-  container: { flex: 1, backgroundColor: COLORS.background },
-
-  // Sticky header (fundo igual ao da tela para não "quebrar" ao grudar)
-  stickyHeader: {
-    backgroundColor: COLORS.background,
-    paddingHorizontal: SPACING.lg,
-    paddingBottom: SPACING.sm,
-  },
-
-  // Search
-  searchWrap: {
-    height: 44,
-    borderRadius: RADIUS.lg,
-    paddingHorizontal: 12,
-    backgroundColor: COLORS.card,
-    borderWidth: 1,
-    borderColor: COLORS.border,
-    flexDirection: 'row',
-    alignItems: 'center',
-    gap: 8,
-  },
-  searchInput: {
-    flex: 1,
-    color: COLORS.text,
-    fontSize: 14,
-  },
-  clearBtn: {
-    width: 28, height: 28, borderRadius: 14,
-    alignItems: 'center', justifyContent: 'center',
-    backgroundColor: COLORS.card, borderWidth: 1, borderColor: COLORS.border,
-  },
-
-  // Counter
-  counter: {
-    marginTop: 8,
-    color: COLORS.subtext,
-    fontSize: 12,
-    fontWeight: '700',
-    letterSpacing: 0.3,
-  },
-});
