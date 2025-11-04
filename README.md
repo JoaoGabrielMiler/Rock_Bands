@@ -36,7 +36,7 @@ Aplicar os principais conceitos de **desenvolvimento mobile com React Native e E
 
 |          Início         |          Catálogo         |          Favoritos         |          Detalhes         |
 | :---------------------: | :-----------------------: | :------------------------: | :-----------------------: |
-| ![Início](./image2.png) | ![Catálogo](./image3.png) | ![Favoritos](./image4.png) | ![Detalhes](./image1.png) |
+| ![Início](./images/image2.png) | ![Catálogo](./images/image3.png) | ![Favoritos](./images/image4.png) | ![Detalhes](./images/image1.png) |
 
 ---
 
