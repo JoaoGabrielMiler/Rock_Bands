@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/splash-icon.png" width="120" alt="Logo do Rock Bands" />
+  <img src="./images/rock-bands-icon.png" width="120" alt="Logo do Rock Bands" />
 </p>
 
 # 🎸 Rock Bands
