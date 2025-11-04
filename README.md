@@ -128,7 +128,7 @@ npx expo start
 | -------------- | ------------------------------ |
 | [João Gabriel Miler]     | Desenvolvimento Frontend e UI  |
 | [Erik Augusto Benevides] | Lógica de Favoritos e Contexto |
-| [IGabriel Beretta Padilha] | Navegação e Integração         |
+| [Gabriel Beretta Padilha] |          |
 
 ---
 
