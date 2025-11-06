@@ -5,9 +5,15 @@ export type Band = {
   genre: string;
   origin: string;
   formedIn: number;
+<<<<<<< HEAD
   image?: string;        // URL remota
   topSongs: string[];
   description?: string;
+=======
+  image: string;        // URL remota
+  topSongs: string[];
+  description: string;
+>>>>>>> 04d6d94fca9d93696b9ba1e9d5cfedf9cb5c978a
 };
 
 export const BANDS: Band[] = [

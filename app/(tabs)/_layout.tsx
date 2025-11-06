@@ -82,6 +82,7 @@ return (
         }}
     />
     <Tabs.Screen
+<<<<<<< HEAD
   name="profile"
   options={{
     title: 'Perfil',
@@ -89,6 +90,8 @@ return (
   }}
 />
     <Tabs.Screen
+=======
+>>>>>>> 04d6d94fca9d93696b9ba1e9d5cfedf9cb5c978a
         name="about"
         options={{
         title: 'Sobre',
