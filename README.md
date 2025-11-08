@@ -34,9 +34,9 @@ Aplicar os principais conceitos de **desenvolvimento mobile com React Native e E
 
 ## 🖼️ Telas Principais
 
-|          Início         |          Catálogo         |          Favoritos         |          Detalhes         |
-| :---------------------: | :-----------------------: | :------------------------: | :-----------------------: |
-| ![Início](./images/image2.png) | ![Catálogo](./images/image3.png) | ![Favoritos](./images/image4.png) | ![Detalhes](./images/image1.png) |
+|              Painel do Solicitante            |              Painel de Colaboradores            |
+| :-------------------------------------------: | :---------------------------------------------: |
+| ![Painel do Solicitante](./images/image2.png) | ![Painel de Colaboradores](./images/image3.png) |
 
 ---
 
